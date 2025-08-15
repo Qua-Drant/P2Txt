@@ -175,34 +175,6 @@ A: 请确认已正确配置阿里云API密钥，并检查网络连接
 ### Q: 如何自定义分类标签？
 A: 修改`P2Txt_new.py`文件中的`LABEL_COLORS`字典
 
-## 开发计划
-
-- [ ] 支持更多点云数据格式（LAS, PLY等）
-- [ ] 增加3D交互式可视化功能
-- [ ] 支持更多AI模型接入
-- [ ] 添加点云数据统计分析功能
-- [ ] 优化大规模点云数据处理性能
-
-## 贡献指南
-
-欢迎提交Issue和Pull Request来改进项目！
-
-1. Fork本项目
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启Pull Request
-
-## 许可证
-
-本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
-
-## 联系方式
-
-如有问题或建议，请通过以下方式联系：
-- 创建Issue
-- 发送邮件至：[your-email@example.com]
-
 ## 致谢
 
 感谢以下开源项目：
@@ -213,5 +185,3 @@ A: 修改`P2Txt_new.py`文件中的`LABEL_COLORS`字典
 - [阿里云通义千问](https://dashscope.aliyun.com/) - AI分析能力
 
 ---
-
-⭐ 如果这个项目对您有帮助，请给个Star支持一下！
